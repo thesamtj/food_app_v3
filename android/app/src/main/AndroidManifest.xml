@@ -31,7 +31,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
                 <data
-                    android:scheme="fooderlich"
+                    android:scheme="food_app_v3"
                     android:host="thesamtj.com" />
             </intent-filter>
         </activity>
